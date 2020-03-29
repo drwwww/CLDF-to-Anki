@@ -3,11 +3,11 @@
  
 ## Requirements
 * Python 3
-* pandas
-* json
-* [genanki](https://github.com/kerrickstaley/genanki)
-* re
-* random
+   * [genanki](https://github.com/kerrickstaley/genanki) (a Python 3 library for generating Anki decks)
+   * pandas
+   * json
+   * re
+   * random
 
 ## How-to
 1. Choose a dictionary on https://dictionaria.clld.org/contributions.
